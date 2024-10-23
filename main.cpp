@@ -3,6 +3,7 @@ using namespace std ;
 int main() {
     float weight, bmi, height;
     cout << "Enter your weight in Kg :";
+    cout << "new branch";
     cin >> weight;
     cout << "Enter height in centimeters :";
      cin >> height;
